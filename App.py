@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 DRIVER = 'SQL Server'
 SERVER = 'DESKTOP-T3ER55E\SQLEXPRESS'
-DATABASE = 'flaskcontacts'
+DATABASE = 'inpelsadb'
 #uid = <username>
 # pwd = <password>
 connection_string = f"""
